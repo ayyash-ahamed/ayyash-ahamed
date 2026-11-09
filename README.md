@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ayyash Ahamed
+Final-year Mechanical Engineering undergraduate (Mechatronics) at the University of Moratuwa, Sri Lanka.
 
-<!--
-**ayyash-ahamed/ayyash-ahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+- Robotics, automation and embedded systems
+- Founder and tutor at RidMath Institute of Innovation (RMII), teaching since 2020
+- Building VENTIQ, a multi-category product platform
+- President, Galle Muslim Undergraduate Network
 
-Here are some ideas to get you started:
+## Skills
+Mechatronics | Embedded Systems | Arduino | Raspberry Pi | Automation and Robotics | Mechanical CAD (SolidWorks, AutoCAD) | COMSOL Multiphysics | Finite Element Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+[LinkedIn](https://www.linkedin.com/in/ayyash-ahamed-b85233318/)
