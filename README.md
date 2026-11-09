@@ -3,7 +3,7 @@ Final-year Mechanical Engineering undergraduate (Mechatronics) at the University
 
 ## About
 - Robotics, automation and embedded systems
-- Founder and tutor at RidMath Institute of Innovation (RMII), teaching since 2020
+- Founder and tutor at [RidMath Institute of Innovation (RMII)](https://www.rmii.lk), teaching since 2020
 - Building VENTIQ, a multi-category product platform
 - President, Galle Muslim Undergraduate Network
 
@@ -11,4 +11,4 @@ Final-year Mechanical Engineering undergraduate (Mechatronics) at the University
 Mechatronics | Embedded Systems | Arduino | Raspberry Pi | Automation and Robotics | Mechanical CAD (SolidWorks, AutoCAD) | COMSOL Multiphysics | Finite Element Analysis
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/ayyash-ahamed-b85233318/)
+[LinkedIn](https://www.linkedin.com/in/ayyash-ahamed-b85233318/) | [RMII Website](https://www.rmii.lk)
